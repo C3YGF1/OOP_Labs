@@ -12,10 +12,10 @@ namespace Lab_2_OOP
         Rating, Trnng, Gamble
     }
 
-    public class Game
+    public class List
     {
-        public BaseAccount Opponent { get; set; }
-        public string OpponentName { get; set; }
+        public BaseAccount Loser { get; set; }
+        public string LoserName { get; set; }
         public int currentRating { get; set; }
         public uint GameIndex { get; set; }
         protected Status status;
@@ -23,10 +23,10 @@ namespace Lab_2_OOP
         protected GameType gameType;
         public GameType GameType { get { return gameType; } }
 
-        public Game(BaseAccount Opponent, string opponentName, int currentRating, uint gameIndex, Status status, GameType gameType)
+        public List(BaseAccount loser, string loserName, int currentRating, uint gameIndex, Status status, GameType gameType)
         {
-            this.Opponent = Opponent;
-            OpponentName = opponentName;
+            this.Loser = loser;
+            LoserName =  loserName;
             this.currentRating = currentRating;
             GameIndex = gameIndex;
             this.status = status;

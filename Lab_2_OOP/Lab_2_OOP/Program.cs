@@ -1,4 +1,5 @@
 ﻿using Lab_2_OOP.Accounts;
+using Lab_2_OOP.Games;
 
 namespace Lab_2_OOP
 {
@@ -11,15 +12,19 @@ namespace Lab_2_OOP
             var ZXC = new VipAccount("ZXC");
             var RTY = new SuperVipAccount("RTY");
 
-            QWE.WinGame(QWE, "QWE", ASD, "ASD", 2000);
+            var StandartGame = new StandartGame();
+            var TrainGame = new TrainGame();
+            var GambleGame = new GambleGame();
 
-            ASD.WinTrainGame(ASD, "ASD", ZXC, "ZXC");
+            StandartGame.WinGame(QWE, ASD, 2000);
 
-            ZXC.WinGambleGame(ZXC, "ZXC", RTY, "RTY");
+            TrainGame.WinGame(ASD, ZXC, 0);
 
-            RTY.WinGame(RTY, "RTY", ZXC, "ZXC", 40);
-            RTY.WinTrainGame(RTY, "RTY", ASD, "ASD");
-            RTY.WinGambleGame(RTY, "RTY", QWE, "QWE");
+            GambleGame.WinGame(ZXC, RTY, 20);
+
+            StandartGame.WinGame(RTY, ZXC, 40);
+            TrainGame.WinGame(RTY, ASD, 0);
+            GambleGame.WinGame(RTY, QWE, 60);
 
 
             Console.WriteLine(QWE.GetAccountHistory());
