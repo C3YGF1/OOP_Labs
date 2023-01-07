@@ -1,0 +1,18 @@
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\bin\Debug\net6.0-windows\Tic tac toe game.exe
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\bin\Debug\net6.0-windows\Tic tac toe game.deps.json
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\bin\Debug\net6.0-windows\Tic tac toe game.runtimeconfig.json
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\bin\Debug\net6.0-windows\Tic tac toe game.dll
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\bin\Debug\net6.0-windows\Tic tac toe game.pdb
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.dll
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\refint\Tic tac toe game.dll
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.pdb
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic tac toe game.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\ref\Tic tac toe game.dll
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic_tac_toe_game.TicTacToe.resources
+C:\Users\Vlad\source\repos\Tic tac toe game\Tic tac toe game\obj\Debug\net6.0-windows\Tic_tac_toe_game.MainMenu.resources

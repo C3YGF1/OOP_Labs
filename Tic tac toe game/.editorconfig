@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# CS8602: Разыменование вероятной пустой ссылки.
+dotnet_diagnostic.CS8602.severity = silent
+
+# CS8618: Поле, не допускающее значения NULL, должно содержать значение, отличное от NULL, при выходе из конструктора. Возможно, стоит объявить поле как допускающее значения NULL.
+dotnet_diagnostic.CS8618.severity = silent
+
+# SYSLIB0011: Тип или член устарел
+dotnet_diagnostic.SYSLIB0011.severity = silent
+
+# Default severity for all analyzer diagnostics
+dotnet_analyzer_diagnostic.severity = silent
+
+# CS8625: Литерал, равный NULL, не может быть преобразован в ссылочный тип, не допускающий значение NULL.
+dotnet_diagnostic.CS8625.severity = silent
